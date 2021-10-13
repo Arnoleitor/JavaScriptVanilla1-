@@ -1,5 +1,6 @@
 let nombre ="";
 
-console.log=prompt("inroduce tu nombre");
+nombre=prompt("introduce tu nombre")
 
-alert("hola"+(nombre));
+alert("hola " + nombre);
+

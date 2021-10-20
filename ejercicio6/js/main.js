@@ -1,6 +1,7 @@
 let num="";
-let iva=1.21;
 let resultado
+
+const iva=1.21;
 
 num=prompt("introduce precio");
 resultado=(num*iva);
